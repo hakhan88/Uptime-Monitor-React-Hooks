@@ -1,6 +1,6 @@
-# 📟 Description
+# Description
 
-This application is an **uptime monitor** to monitor our third-party API integrations.
+This application is an exercise to try out react hooks in order to come up with an **uptime monitor** application to perform third-party API integrations.
 
 ## Development server
 
